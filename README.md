@@ -1,4 +1,4 @@
-# Web3Auth Documentation
+1172# Web3Auth Documentation
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
